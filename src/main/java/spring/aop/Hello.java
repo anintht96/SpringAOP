@@ -17,8 +17,5 @@ public class Hello {
 		System.out.println("Method 3.");
 		throw new IllegalArgumentException();
 	}
-	//dnasndjm
-	//xoa di
-	//them vao
 	
 }
